@@ -1,0 +1,21 @@
+{
+  "name": "mission-lakshya-neet-2027",
+  "version": "1.0.0",
+  "description": "Mission Lakshya NEET 2027 - Complete NEET preparation platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "neet",
+    "education",
+    "study"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "express": "^4.18.2"
+  }
+}
